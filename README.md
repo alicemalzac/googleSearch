@@ -22,8 +22,3 @@ Before running the test, ensure you have the following prerequisites installed:
    ```bash
    dotnet build
    dotnet test
-
-
-
-   
-# googleSearch
